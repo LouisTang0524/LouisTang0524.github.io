@@ -1,0 +1,18 @@
+baseURL: "https://louistang0524.github.io/"
+locale: "zh-CN"
+title: "我的博客"
+theme: "PaperMod"
+
+params:
+  # 首页个人简介
+  homeInfoParams:
+    Title: "这是我的博客"
+    Content: "简单记录。"
+  # 社交图标
+  socialIcons:
+    - name: github
+      url: "https://github.com/LouisTang0524"
+  # 其他功能开关
+  ShowReadingTime: false
+  ShowCodeCopyButtons: true
+  ShowShareButtons: false
